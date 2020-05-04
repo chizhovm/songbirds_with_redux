@@ -1,0 +1,19 @@
+const ADDER = 1;
+const BIRD_COUNT = 6;
+const DEFAULT_SCORE = 0;
+const DEFAULT_BTN_NEXT_CLASSLIST = 'btn';
+const DEFAULT_BIRD_CLASSLIST = 'list-group-item bird-item';
+const START_LEVEL = 0;
+const FINISH_LEVEL = 5;
+const LEVEL_SCORE = 5;
+
+export {
+  ADDER,
+  BIRD_COUNT,
+  DEFAULT_SCORE,
+  DEFAULT_BTN_NEXT_CLASSLIST,
+  DEFAULT_BIRD_CLASSLIST,
+  START_LEVEL,
+  FINISH_LEVEL,
+  LEVEL_SCORE,
+};
